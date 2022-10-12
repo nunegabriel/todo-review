@@ -3,6 +3,7 @@ import titleIcon from './img/refresh.png';
 import addIcon from './img/add.png';
 import todoList from './modules/functions.js';
 
+
 const check = () => {
   const inputChecks = document.querySelectorAll('.check');
   inputChecks.forEach((check) => {
